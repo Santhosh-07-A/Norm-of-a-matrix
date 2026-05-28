@@ -13,7 +13,12 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 # Register No:
 # Developed By:
 # 1-Norm of a Matrix
-
+import os 
+os.environ["OPENBLAS_NUM_THREADS"]="1"
+import numpy as np
+A = np.array(eval(input()))
+norm = np.linalg.norm(A,1)
+print("{:.2f}" .format(norm))
 
 
 
