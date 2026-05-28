@@ -31,19 +31,15 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>
-<br>
-<br>
+<img width="1919" height="1006" alt="Screenshot 2026-05-29 000902" src="https://github.com/user-attachments/assets/3020e7f3-a896-4f1d-8d62-5b9565aafc47" />
+
 
 ### 2-Norm of a Matrix
-<br>
-<br>
-<br>
+<img width="1920" height="1029" alt="Screenshot 2026-05-29 000923" src="https://github.com/user-attachments/assets/3c3b9404-1449-404f-951f-edee43104e22" />
 
 ### Infinity Norm of a Matrix
-<br>
-<br>
-<br>
+<img width="1917" height="1007" alt="Screenshot 2026-05-29 000935" src="https://github.com/user-attachments/assets/24338f24-f11c-48d3-924e-fc7ca69e5637" />
+
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
